@@ -1,7 +1,9 @@
 import React from "react";
 
 const Products = () => {
-  return <div>{/* here */}</div>;
+  return <div>
+    
+    </div>;
 };
 
 export default Products;
